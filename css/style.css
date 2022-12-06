@@ -1,0 +1,17 @@
+body{background-color: rgb(249, 216, 231);}
+form{
+    margin-top: 20%;
+    float: none;
+    display: block;
+    margin-left: 30%;
+}
+form input.form-control{
+    width: 60% !important;
+}
+form .btn{
+    margin-top: 5px;
+    width: 15%;
+}
+.cbtn{
+    width: 62% !important;
+}
